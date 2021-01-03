@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548816453 source:d:\olimpiada\probleme\compresie\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<string.h>
+
