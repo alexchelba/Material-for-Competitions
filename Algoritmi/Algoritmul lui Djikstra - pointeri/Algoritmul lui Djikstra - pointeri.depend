@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477591528 source:g:\informatica - cls a 11-a\grafuri\probleme\algoritmul lui djikstra\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1481789008 source:f:\informatica - cls a 11-a\probleme\grafuri cu pointeri\algoritmul lui djikstra - pointeri\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
